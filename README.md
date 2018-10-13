@@ -1,0 +1,1 @@
+Control the cursor on a X11 based Linux computer from a remote client, the purpose is to make use of Crossbar/Autobahn/WAMP proto and show the ease and power it offers.
